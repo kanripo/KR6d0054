@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:48:41.250176
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:10
 #+TITLE: 觀音經義疏記條箇
 #+PROPERTY: CBETA_ID X35n0644
 #+PROPERTY: ID KR6d0054
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 35, No. 644
 #+PROPERTY: VOL 35
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0054_X_001-0106a> 
 #+PROPERTY: JUAN 1
-No.644¶
-
- 觀音義疏記條箇¶
+No. 644¶
+觀音義疏記條箇¶
 
   
   * 卷第一¶
